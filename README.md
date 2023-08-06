@@ -103,4 +103,5 @@ Screenshot
 ![image](https://github.com/TrickAndTrack/Reactjs/assets/73180409/1c3b1a18-b126-4027-a520-9c3509742e48)
 
 ## Extention requred to React js Project
-preitte 
+1) preitte 
+2)
