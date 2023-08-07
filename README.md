@@ -80,22 +80,33 @@ Answer
 export default App;
 ```
 # JavaScript Refresher
-Basic Syntax & Rules
-Vaerables, Value & Operators
-Function
-Objects
-Arrays
-Control Structures
-Brower APIs & The DOM
-Essential Features Used by React 
-Tricky Parts
+1) Basic Syntax & Rules
+2) Vaerables, Value & Operators
+3) Function
+4) Objects
+5) Arrays
+6) Control Structures
+7) Brower APIs & The DOM
+8) Essential Features Used by React 
+9) Tricky Parts
 
 
 
 # JavaScript Can be excuted in many Environments
-Screenshot
+1) in the browser
+2) on any Computer
+3) On mobile Dervices
+
+
 ### Adding JavaScript code To A website
 ![image](https://github.com/TrickAndTrack/Reactjs/assets/73180409/1c3b1a18-b126-4027-a520-9c3509742e48)
+Via <Srcipt> Import is a best way to apply JS.
+bewtween<Srcipt> Tags
+typically onl used for evry short scripts.
+
+> React Project use a build process.
+# import & Export
+
 
 ## Extention requred to React js Project
 1) preitte 
