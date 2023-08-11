@@ -217,6 +217,38 @@ storeOrder({id: 5, currency: 'USD', amount: 15.99}); // one argument / value!
 # Spread operator
 # Revisiting Control statement 
 # Manipulating The DOM
+# Using function as a value.
+```
+function greeter(greentFn){
+    greentFn();
+}
+greeter(() => console.log("Hi"));
+```
+# Defining Function Inside of Function
+```
+
+function init(){
+   function greet(){
+ console.log("T&T");
+}
+grret();
+}
+greet();// u can not access outside the function it is valid only inside the function.
+init(); you can access
+```
+# Refrance Vs primative Value
+# React Section
+# React Module introduction
+Component -Driven user interface
+Building Interactive * Scalable UIs
+1) React Core Syntax & JSX
+2) working with Components
+3) Working with Data 
+> Q What is a Component?
+> 1) Reusability 2) Separation of Concerns
+> Q How ia A Component Built? -> HTML CSS JS
+
+
 ## Extention required to React js Project
 1) preitte 
 2)
