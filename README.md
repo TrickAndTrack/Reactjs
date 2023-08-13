@@ -238,7 +238,9 @@ init(); you can access
 ```
 # Refrance Vs primative Value
 # React Section
-# React Module introduction
+# React basic & working with components
+
+## React Module introduction
 Component -Driven user interface
 Building Interactive * Scalable UIs
 1) React Core Syntax & JSX
@@ -247,6 +249,16 @@ Building Interactive * Scalable UIs
 > Q What is a Component?
 > 1) Reusability 2) Separation of Concerns
 > Q How ia A Component Built? -> HTML CSS JS
+ReactDom, yhis package is exporting some react Dom Object.and were importing it here into .js file.
+*<div id="root></div>* this div where we want to attach or inject our react-drivan user interface
+ 
+## Introduction JSX
+indeed, JSX stands for Javascript XML.
+In these developerr tools here go to the sources tab. all the script files for example, which were downloaded as part of this page.
+in this section static/js which hold a couple of javascript files.
+## How react work
+React allows you to create re-usable and reactive components consisting of HTML and Javascript(and css) -> declarative approach.
+You Build A component tree.
 
 
 ## Extention required to React js Project
