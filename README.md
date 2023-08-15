@@ -250,16 +250,28 @@ Building Interactive * Scalable UIs
 > 1) Reusability 2) Separation of Concerns
 > Q How ia A Component Built? -> HTML CSS JS
 ReactDom, yhis package is exporting some react Dom Object.and were importing it here into .js file.
-*<div id="root></div>* this div where we want to attach or inject our react-drivan user interface
+*<div id="root></div>* this div is where we want to attach or inject our react-driven user interface
  
 ## Introduction JSX
 indeed, JSX stands for Javascript XML.
-In these developerr tools here go to the sources tab. all the script files for example, which were downloaded as part of this page.
+In these developer tools here go to the sources tab. all the script files for example, which were downloaded as part of this page.
 in this section static/js which hold a couple of javascript files.
 ## How react work
-React allows you to create re-usable and reactive components consisting of HTML and Javascript(and css) -> declarative approach.
+React allows you to create reusable and reactive components consisting of HTML and Javascript(and CSS ) -> declarative approach.
 You Build A component tree.
 
+>APP.js is a soecial kind of components it will be our s0-called root component
+
+## Passing Data via props
+we can make our components reusable by using parameters and conecpt callled props in react.
+React will ensure that we get one parameter in every component which we use a component.
+48 no video challenge best example for login page.
+
+props alternate object destruchering 
+its regular JavaScript code & you can use object destructuring syntax where you add opening & closing curly braces.
+
+##  adding normal javascript logic to components
+## splitting component into multiple components 
 
 ## Extention required to React js Project
 1) preitte 
