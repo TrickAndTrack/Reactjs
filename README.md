@@ -273,6 +273,8 @@ its regular JavaScript code & you can use object destructuring syntax where you 
 ##  adding normal javascript logic to components
 ## splitting component into multiple components 
 
+
+
 ## Extention required to React js Project
 1) preitte 
 2)
