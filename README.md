@@ -272,8 +272,16 @@ its regular JavaScript code & you can use object destructuring syntax where you 
 
 ##  adding normal javascript logic to components
 ## splitting component into multiple components 
-
-
+## A closer Look At JSX
+Actully needed to "import Rreact from in all your React component files to be precise, in all files where you used JSX.
+### An Alterb=native Function Syntax
+that really Just standard JavaScript code.
+```
+const  App() =() =>{
+return (
+);
+}
+```
 
 ## Extention required to React js Project
 1) preitte 
