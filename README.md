@@ -282,6 +282,16 @@ return (
 );
 }
 ```
+# Time to Practice: Component Basics
+## Module Introduction
+ 1) Split an Exisiting Component into smaller Components
+ 2) Create & Use Multiple Custome components
+ 3) pass Data via props
+> output the "key Concept data"  
+> identifiy possible Components
+> Create & Use (Re-usable) Custom Components
+
+
 
 ## Extention required to React js Project
 1) preitte 
