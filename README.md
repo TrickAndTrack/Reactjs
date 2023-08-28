@@ -258,24 +258,24 @@ In these developer tools here go to the sources tab. all the script files for ex
 in this section static/js which hold a couple of javascript files.
 ## How react work
 React allows you to create reusable and reactive components consisting of HTML and Javascript(and CSS ) -> declarative approach.
-You Build A component tree.
+You Build A Component Tree.
 
->APP.js is a soecial kind of components it will be our s0-called root component
+>APP.js is a special kind of component it will be our so-called root component
 
 ## Passing Data via props
-we can make our components reusable by using parameters and conecpt callled props in react.
-React will ensure that we get one parameter in every component which we use a component.
+We can make our components reusable by using parameters and concept callled props in react.
+React will ensure that we get one parameter in every component that we use a component.
 48 no video challenge best example for login page.
 
-props alternate object destruchering 
-its regular JavaScript code & you can use object destructuring syntax where you add opening & closing curly braces.
+props alternate object destructuring 
+It's regular JavaScript code & you can use object destructuring syntax where you add opening & closing curly braces.
 
-##  adding normal javascript logic to components
-## splitting component into multiple components 
-## A closer Look At JSX
-Actully needed to "import Rreact from in all your React component files to be precise, in all files where you used JSX.
+## Adding normal javascript logic to components
+## Splitting components into multiple components 
+## A Closer Look At JSX
+Actually needed to "import Rreact from all your React component files to be precise, in all files where you used JSX.
 ### An Alterb=native Function Syntax
-that really Just standard JavaScript code.
+that is really just standard JavaScript code.
 ```
 const  App() =() =>{
 return (
@@ -284,15 +284,23 @@ return (
 ```
 # Time to Practice: Component Basics
 ## Module Introduction
- 1) Split an Exisiting Component into smaller Components
- 2) Create & Use Multiple Custome components
- 3) pass Data via props
-> output the "key Concept data"  
-> identifiy possible Components
-> Create & Use (Re-usable) Custom Components
+ 1) Split an existing component into smaller Components
+ 2) Create and use Multiple Customer components
+ 3) Pass data via props
+> Output the "key Concept data"  
+> Identify possible Components
+> Create and use (Re-usable) Custom Components
+
+## Output Key Concept Data
+## Identify possible Components
+|1st img| 2nd img|
+|-------|--------|
+|||
+
+
 
 
 
 ## Extention required to React js Project
-1) preitte 
+1) pretty 
 2)
