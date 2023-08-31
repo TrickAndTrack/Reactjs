@@ -302,9 +302,19 @@ return (
 - Making apps intercative & reactive
 - 
 
+## Important 
+|||
+|------|------|
+|![image](https://github.com/TrickAndTrack/Reactjs/assets/73180409/5380b80d-3db4-402b-85d7-78fd8e221e43)|![image](https://github.com/TrickAndTrack/Reactjs/assets/73180409/2ad4dfbd-61d7-4b53-b74c-d13cd946e961)|
+|![image](https://github.com/TrickAndTrack/Reactjs/assets/73180409/49b7160a-fc94-4817-9b16-89ee74f220f6)|![image](https://github.com/TrickAndTrack/Reactjs/assets/73180409/50b51921-75b1-47cf-be52-c28c2c313edf)|
 
 
 
 ## Extention required to React js Project
-1) pretty 
-2)
+1) pretty
+2) ES7+ React/Redux/React-Native/JS snippets
+3) JavaScript (ES6) snippets
+4) Live Server
+5) Material Icon Theme
+6) Prettier Formatter
+
