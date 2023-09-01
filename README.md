@@ -317,4 +317,3 @@ return (
 4) Live Server
 5) Material Icon Theme
 6) Prettier Formatter
-
